@@ -8,7 +8,7 @@ const App = () => {
   const YOUR_APP_ID ="57b61f27";
   const YOUR_APP_KEY ="abe20662438de76e408e64547e5c5c0b";
   useEffect(()=>{
-    OneSignal.init({appId:'aea258960-8005-425e-861b-d1d7c70cf4be'})
+    OneSignal.init({appId:'b50ed0b6-0d71-4703-a21f-82e4d3a16221'})
       })
   const submithandler=(e)=>{
     e.preventDefault();
